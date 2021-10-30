@@ -8,15 +8,15 @@
 * [Contributions](#contributions)
 * [Questions](#questions)
 # Project Description
-This is a Professional Readme generator for my Projects.
+The following application is a command-line application that will create a "readme" file based off user input. In order to use the application, a user would have to navigate to where the "index.js" file is located and open up their terminal. The application can be started by typing the following command in the terminal and pressing the "enter" key:
 
 # Installation
-Download Nodejs and required packages
+The user will then be prompted with a series of questions regarding their GitHub username and project. Once complete, a "readme" file will be generated with the user's information and responses.
 # Usage
-This Project can be used for generating readme file
+ This is used for readme generator
 # Tests
-undefined
+NO test at this point
 # License
-Licensed under the [GNU GPLv3 License](https://spdx.org/licenses/GPL-3.0-or-later.html).
+Licensed under the [Apache License](https://spdx.org/licenses/Apache-2.0.html).
 # Contributions
-undefined
+jagydas

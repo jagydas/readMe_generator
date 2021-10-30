@@ -27,11 +27,11 @@ ${data.installation}
 # Usage
 ${data.usage}
 # Tests
-${data.tests}
+${data.test}
 # License
 ${data.license}
 # Contributions
-${data.contributors}
+${data.contribution}
 `;
 }
 

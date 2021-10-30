@@ -50,7 +50,7 @@ const questions = [{
     },
     {
         type: "input",
-        name: "contributing",
+        name: "contribution",
         message: "Please provide the contributing parties"
     },
     {
